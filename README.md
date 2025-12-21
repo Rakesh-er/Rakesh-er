@@ -1,53 +1,66 @@
 <div align="center">
 
-# 𝚁𝙰𝙺𝙴𝚂𝙷  𝚂𝙰𝚁𝙺𝙰𝚁
-**SOFTWARE ENGINEER | FULL STACK JAVA ARCHITECT**
+# 𝚁𝙰𝙺𝙴𝚂𝙷 𝚂𝙰𝚁𝙺𝙰𝚁
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [Email](mailto:sarakarrakesh486@gmail.com) • [Portfolio](https://yourportfolio.com)
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Designing+High-Performance+Systems" alt="Typing SVG" />
+
 ---
 
-## Technical Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rakesh-sarkar-4222252b7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarakarrakesh486@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/HP/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/6C9BDB1B6BF4BEF5E704108F56AC75159FBB29E7/transfers/2025-51/Resume-%20Rakesh.pdf)
+
+---
 
 ### Languages
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
 ![C](https://skillicons.dev/icons?i=c&theme=dark)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-![C#](https://skillicons.dev/icons?i=cs&theme=dark)
-![Go](https://skillicons.dev/icons?i=go&theme=dark)
-![Rust](https://skillicons.dev/icons?i=rust&theme=dark)
-![PHP](https://skillicons.dev/icons?i=php&theme=dark)
-![Ruby](https://skillicons.dev/icons?i=ruby&theme=dark)
-![Swift](https://skillicons.dev/icons?i=swift&theme=dark)
-![Kotlin](https://skillicons.dev/icons?i=kotlin&theme=dark)
-
-
-### Backend
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![Spring](https://skillicons.dev/icons?i=spring&theme=dark)
-![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=dark)
-![Maven](https://skillicons.dev/icons?i=maven&theme=dark)
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Redux](https://skillicons.dev/icons?i=redux&theme=dark)
-![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
 ![HTML](https://skillicons.dev/icons?i=html&theme=dark)
 ![CSS](https://skillicons.dev/icons?i=css&theme=dark)
-![Java Script](https://skillicons.dev/icons?i=javascript&theme=dark)
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
 
-### Database & Tools
+### Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Express](https://skillicons.dev/icons?i=express&theme=dark)
+![Django](https://skillicons.dev/icons?i=django&theme=dark)
+![FastAPI](https://skillicons.dev/icons?i=fastapi&theme=dark)
+
+### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)
+
+### DevOps / Cloud
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)
+![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
+![Azure](https://skillicons.dev/icons?i=azure&theme=dark)
 
----
+### CI/CD
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)
 
-### Github PROJECTS
+### Tools / Editors
+![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
+![IntelliJ](https://skillicons.dev/icons?i=idea&theme=dark)
+![Vim](https://skillicons.dev/icons?i=vim&theme=dark)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
+
+
+</div>
+
+
+### COMPLETED/WORKING PROJECTS
 *Click on a project name to view the repository.*
 
 #### [Wanderstay](https://github.com/Rakesh-er/Wanderstay)
@@ -70,9 +83,15 @@
 
 ---
 
-###  PROFESSIONAL FOCUS
-- 🔭 **Current:** Building a high-scale Microservices project using **Spring Cloud**.
-- 🌱 **Learning:** Deepening expertise in **System Design** and **Kubernetes**.
-- 💬 **Collaboration:** Open to innovative **Internship** opportunities for Summer 2026.
+### FOCUSING ON
+-  **Current:** Building a high-scale Microservices project using **Spring Cloud**.
+-  **Learning:** Deepening expertise in **System Design** and **Kubernetes**.
+-  **Collaboration:** Open to innovative **Internship** opportunities for Summer 2026.
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="activity-snake" />
+  <br />
+  <sub>Last updated: December 2025 •-> <b>Rakesh-er </b>Profile</sub>
+</div>
