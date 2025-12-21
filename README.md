@@ -2,13 +2,13 @@
 
 # 𝚁𝙰𝙺𝙴𝚂𝙷 𝚂𝙰𝚁𝙺𝙰𝚁
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Designing+High-Performance+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=100&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Designing+High-Performance+Systems" alt="Typing SVG" />
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rakesh-sarkar-4222252b7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarakarrakesh486@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](file:///C:/Users/HP/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/6C9BDB1B6BF4BEF5E704108F56AC75159FBB29E7/transfers/2025-51/Resume-%20Rakesh.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sarkar-4222252b7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sarakarrakesh486@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)]([file:///C:/Users/HP/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/6C9BDB1B6BF4BEF5E704108F56AC75159FBB29E7/transfers/2025-51/Resume-%20Rakesh.pdf](https://drive.google.com/open?id=16gdJ6JRDUoc0HFx6EwsUA_-qkTu8kju1&usp=drive_fs))
 
 ---
 
