@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sarkar-4222252b7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sarakarrakesh486@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)]([file:///C:/Users/HP/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/6C9BDB1B6BF4BEF5E704108F56AC75159FBB29E7/transfers/2025-51/Resume-%20Rakesh.pdf](https://drive.google.com/open?id=16gdJ6JRDUoc0HFx6EwsUA_-qkTu8kju1&usp=drive_fs))
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=google-docs&logoColor=white)](https://drive.google.com/file/d/16gdJ6JRDUoc0HFx6EwsUA_-qkTu8kju1/view?usp=sharing)
 
 ---
 
