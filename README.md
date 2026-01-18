@@ -69,6 +69,12 @@
 > - Implemented secure user authentication and a seamless UI for property discovery.
 > - **Tech:** JavaScript, Node.js, CSS3, Express.
 
+#### [Meetify- Video call](https://github.com/Rakesh-er/Meetify)
+> **Financial Analytics Dashboard**
+> - Developed a data-driven interface for tracking market trends and trading visualizations.
+> - Focused on low-latency data rendering and high-performance charting.
+> - **Tech:** React.js, Financial APIs, Tailwind CSS.
+
 #### [Tradezen-Platform](https://github.com/Rakesh-er/tradezen-platform)
 > **Financial Analytics Dashboard**
 > - Developed a data-driven interface for tracking market trends and trading visualizations.
