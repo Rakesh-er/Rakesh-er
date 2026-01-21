@@ -39,15 +39,6 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
 
-### DevOps / Cloud
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes&theme=dark)
-![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
-![Azure](https://skillicons.dev/icons?i=azure&theme=dark)
-
-### CI/CD
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)
 
 ### Tools / Editors
 ![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
@@ -69,7 +60,7 @@
 > - Implemented secure user authentication and a seamless UI for property discovery.
 > - **Tech:** JavaScript, Node.js, CSS3, Express.
 
-#### [Meetify](https://github.com/your-username/Meetify)
+#### [Meetify](https://github.com/Rakesh-er/Meetify)
 > **Full Stack Video Conferencing Platform**
 > - Engineered a real-time video communication system utilizing **Socket.io** for instant signaling and low-latency connectivity.
 > - Implemented secure user authentication and a responsive, glassmorphism-inspired UI for seamless meeting management.
