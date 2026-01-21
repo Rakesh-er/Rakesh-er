@@ -69,11 +69,12 @@
 > - Implemented secure user authentication and a seamless UI for property discovery.
 > - **Tech:** JavaScript, Node.js, CSS3, Express.
 
-#### [Meetify- Video call](https://github.com/Rakesh-er/Meetify)
-> **Financial Analytics Dashboard**
-> - Developed a data-driven interface for tracking market trends and trading visualizations.
-> - Focused on low-latency data rendering and high-performance charting.
-> - **Tech:** React.js, Financial APIs, Tailwind CSS.
+#### [Meetify](https://github.com/your-username/Meetify)
+> **Full Stack Video Conferencing Platform**
+> - Engineered a real-time video communication system utilizing **Socket.io** for instant signaling and low-latency connectivity.
+> - Implemented secure user authentication and a responsive, glassmorphism-inspired UI for seamless meeting management.
+> - **Tech:** React.js, Node.js, Socket.io, Material UI, WebRTC.
+
 
 #### [Tradezen-Platform](https://github.com/Rakesh-er/tradezen-platform)
 > **Financial Analytics Dashboard**
